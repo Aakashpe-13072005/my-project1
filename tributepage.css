@@ -1,0 +1,43 @@
+header {
+    background-color:#8911;
+    text-align:center;
+    padding-top:15px;
+    padding-bottom:11px;
+    margin-top:0;
+  }
+  h1 {
+    color:black;
+    margin:auto;
+    font-size:43px;
+  }
+  #sub-title {
+  font-size:20px;
+  color:black;
+  font-family:courier new;
+  font-weight:bold;
+  }
+  img {
+    max-width:100%;
+    height:auto;
+    display:block;
+    margin-top:3px;
+    image-rendering:high-quality;
+  }
+  #img-caption{
+    text-align:center;
+    margin-top:1px;
+    font-weight:bold;
+  }
+  #tribute-info {
+    background-color:#8911;
+    padding-left:10px;
+    padding-right:10px;
+    padding-bottom:25px;
+    margin:auto;
+  }
+  #tagline{
+    text-align:center;
+  }
+  #bold {
+    font-weight:bold;
+  }
